@@ -1,0 +1,25 @@
+nav {
+height:50px;
+background: blue;
+}
+
+nav div{
+display: inline-block;
+position: absolute;
+font-size:20px;
+color: orange;
+}
+
+nav ul {
+position: absolute;
+right: 5px
+}
+
+nav ul li{
+display: inline-block;
+}
+
+nav ul li a{
+color: pink;
+padding:5px
+}
